@@ -1,0 +1,6 @@
+{
+  "name": "CareerLens AI — Intelligent Resume Analyzer & ATS Checker",
+  "description": "Evaluate resumes against job descriptions, calculate ATS compatibility, identify skill gaps, and get actionable AI-powered resume improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
